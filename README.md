@@ -7,7 +7,7 @@
 Building intelligent systems with Machine Learning, LLMs, RAG Architecture, and Scalable Backend Solutions.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0891b2&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Vaibhavv1735&label=Profile%20Views&color=0891b2&style=flat-square" alt="profile views" />
 </p>
 
 </div>
@@ -136,31 +136,13 @@ Optimization-based university scheduling platform.
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
 
 # 🌐 Let's Connect
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/vaibhavv1735">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -168,7 +150,7 @@ Optimization-based university scheduling platform.
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Vaibhavv1735">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
