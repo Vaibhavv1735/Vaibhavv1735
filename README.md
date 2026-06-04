@@ -142,7 +142,7 @@ Optimization-based university scheduling platform.
 
 <div align="center">
 
-<a href="linkedin.com/in/vaibhavv1735">
+<a href="https://www.linkedin.com/in/vaibhavv1735/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
